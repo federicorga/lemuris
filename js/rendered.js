@@ -10,7 +10,7 @@ function renderCardModel(page) {
     card.classList.add(`card`)
 
     card.innerHTML = `
-    <img src="/imagenes/NFTs/${page.nftimg}" alt="Descripción de la imagen"">`
+    <img src="imagenes/NFTs/${page.nftimg}" alt="Descripción de la imagen"">`
 
    
 
