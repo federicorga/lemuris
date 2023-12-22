@@ -135,7 +135,7 @@ footer{
 
 
 .contenedor-header{
-  background-image: url("/imagenes/Fondo/gtjnvkg.png");
+  background-image: url("imagenes/Fondo/gtjnvkg.png");
   background-size: cover;
     /*background-color: #1e2326;*/
     position: fixed;
@@ -198,7 +198,7 @@ display: flex;
 /*------COntent Header2 ---*/
 
 .contenedor-header2{
-  background-image: url("/imagenes/Fondo/gtjnvkg.png");
+  background-image: url("imagenes/Fondo/gtjnvkg.png");
     /*background-color: #1e2326;*/
     position: fixed;
     width: 100%;
@@ -302,7 +302,7 @@ display: flex;
 }
 
 .presentation{
-  background-image: url("/imagenes/Fondo/gtjnvkg.png");
+  background-image: url("imagenes/Fondo/gtjnvkg.png");
   background-size: cover;
 }
 
@@ -444,7 +444,7 @@ transition: 0.5s;
 /*--------About Us --------*/
 .mainAbout{
   padding-top: 9rem;
-  background-image: url("/imagenes/Fondo/gtjnvkg.png");
+  background-image: url("imagenes/Fondo/gtjnvkg.png");
   background-size: cover;
 
   
@@ -797,7 +797,7 @@ transition: 0.5s;
 .mainGallery{
     padding-top: 10rem;
     padding-bottom: 10rem;
-    background-image: url("/imagenes/Fondo/gtjnvkg.png");
+    background-image: url("imagenes/Fondo/gtjnvkg.png");
 }
 
 .sectionGallery{
